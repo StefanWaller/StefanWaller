@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StefanWaller
-- 👀 I’m interested in Mathematics
+- 👀 I’m interested in Mathematics and Python
 - 🌱 I’m currently learning Mathematics and Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me Email: s_waller@outlook.com
